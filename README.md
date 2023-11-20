@@ -120,7 +120,7 @@ http://www.studywithanis.com
 
  ![alt text] (image)
  
- <img src="unnamed.jpg" alt="Photo"/>
+ <img src="unnamed.JPG" alt="Photo"/>
 
  <br>
 
